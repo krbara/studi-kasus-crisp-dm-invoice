@@ -1,7 +1,7 @@
 # Studi Kasus: Analisis & Prediksi Keterlambatan Pembayaran Invoice
 
 Studi kasus berdasarkan kuliah tamu **Informatics Practitioner Lecture Series 2026**
-oleh **Bapak Andna Ansal (BRIN)** tentang penerapan analisis data dan AI di dunia industri.
+oleh **Bapak Andria Arisal (BRIN)** tentang penerapan analisis data dan AI di dunia industri.
 
 Kasus: **PT Maju Bersama (fiktif)**, pendapatannya naik, tetapi laba bersih turun dan piutang
 meningkat. Manajemen ingin tahu apa yang terjadi, mengapa, siapa yang berpotensi telat bayar,
@@ -56,4 +56,4 @@ https://krbara.github.io/studi-kasus-crisp-dm-invoice/
 
 ## Referensi
 
-Kuliah tamu *Informatics Practitioner Lecture Series 2026*, Andna Ansal, BRIN.
+Kuliah tamu *Informatics Practitioner Lecture Series 2026*, Andria Arisal, BRIN.
