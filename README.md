@@ -54,4 +54,4 @@ Semua hasil tersimpan di folder `output/`.
 
 ## Referensi
 
-Kuliah tamu *Informatics Practitioner Lecture Series 2026*, Andria Arisal, BRIN.
+Kuliah tamu *Informatics Practitioner Lecture Series 2026*, Andna Ansal, BRIN.
