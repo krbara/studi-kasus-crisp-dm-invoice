@@ -37,7 +37,9 @@ pip install -r requirements.txt
 python analisis_invoice.py
 ```
 
-Semua hasil tersimpan di folder `output/`.
+
+link index.html
+https://krbara.github.io/studi-kasus-crisp-dm-invoice/
 
 ## Catatan Penting
 
