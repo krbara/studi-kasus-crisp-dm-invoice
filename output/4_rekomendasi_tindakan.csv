@@ -1,130 +1,130 @@
 invoice_id,customer_id,segment,amount,due_date,risk_score,rekomendasi
-INV-01954,C094,UKM,79290000.0,2026-01-30,0.683,PRIORITAS 2: telepon PIC pelanggan
-INV-02453,C065,UKM,122590000.0,2026-01-14,0.678,PRIORITAS 2: telepon PIC pelanggan
-INV-01215,C094,UKM,161960000.0,2025-12-31,0.645,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
-INV-00529,C078,Pemerintah,128700000.0,2026-02-24,0.64,PRIORITAS 2: telepon PIC pelanggan
-INV-01226,C044,UKM,406390000.0,2026-02-22,0.632,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
-INV-00018,C072,UKM,407210000.0,2026-02-02,0.626,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
-INV-01884,C133,UKM,278180000.0,2026-01-08,0.624,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
-INV-02075,C106,Pemerintah,115260000.0,2026-01-13,0.615,PRIORITAS 2: telepon PIC pelanggan
-INV-02472,C133,UKM,304100000.0,2026-02-12,0.599,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
-INV-01025,C133,UKM,215150000.0,2026-02-22,0.598,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
-INV-00177,C072,UKM,280500000.0,2026-01-22,0.592,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
-INV-01327,C030,Pemerintah,223860000.0,2026-01-23,0.587,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
-INV-00370,C109,Korporasi,297310000.0,2026-01-25,0.586,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
-INV-01346,C138,UKM,457800000.0,2026-01-24,0.574,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
-INV-00369,C009,Korporasi,687790000.0,2026-01-08,0.555,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
-INV-02652,C015,UKM,136595000.0,2026-02-15,0.55,Kirim email pengingat H-7 dan H-1
-INV-00129,C092,Pemerintah,70240000.0,2026-01-08,0.547,Kirim email pengingat H-7 dan H-1
-INV-00022,C082,UKM,591780000.0,2026-01-27,0.543,Kirim email pengingat H-7 dan H-1
-INV-02041,C047,UKM,164690000.0,2026-02-26,0.541,Kirim email pengingat H-7 dan H-1
-INV-01286,C055,Pemerintah,74680000.0,2026-01-02,0.538,Kirim email pengingat H-7 dan H-1
-INV-00141,C026,Korporasi,151160000.0,2026-01-08,0.538,Kirim email pengingat H-7 dan H-1
-INV-02157,C082,UKM,827220000.0,2026-02-06,0.534,Kirim email pengingat H-7 dan H-1
-INV-02493,C062,UKM,445680000.0,2026-01-04,0.532,Kirim email pengingat H-7 dan H-1
-INV-00432,C121,UKM,214390000.0,2025-12-26,0.528,Kirim email pengingat H-7 dan H-1
-INV-01430,C044,UKM,143930000.0,2026-01-13,0.523,Kirim email pengingat H-7 dan H-1
-INV-01068,C062,UKM,724300000.0,2026-02-12,0.523,Kirim email pengingat H-7 dan H-1
-INV-00613,C082,UKM,148420000.0,2025-11-23,0.519,Kirim email pengingat H-7 dan H-1
-INV-02716,C120,UKM,493510000.0,2025-12-05,0.518,Kirim email pengingat H-7 dan H-1
-INV-02575,C046,Ritel,415430000.0,2026-02-04,0.515,Kirim email pengingat H-7 dan H-1
-INV-02047,C145,UKM,266940000.0,2026-01-06,0.514,Kirim email pengingat H-7 dan H-1
-INV-02835,C092,Pemerintah,75580000.0,2025-12-03,0.51,Kirim email pengingat H-7 dan H-1
-INV-01170,C056,Pemerintah,74920000.0,2026-01-16,0.51,Kirim email pengingat H-7 dan H-1
-INV-02303,C011,UKM,109430000.0,2026-01-03,0.506,Kirim email pengingat H-7 dan H-1
-INV-02017,C126,UKM,175140000.0,2026-01-31,0.505,Kirim email pengingat H-7 dan H-1
-INV-01007,C060,Korporasi,334780000.0,2026-01-20,0.504,Kirim email pengingat H-7 dan H-1
-INV-02792,C026,Korporasi,556200000.0,2026-01-26,0.504,Kirim email pengingat H-7 dan H-1
-INV-00347,C044,UKM,47890000.0,2026-02-12,0.494,Kirim email pengingat H-7 dan H-1
-INV-02023,C126,UKM,101150000.0,2026-01-20,0.492,Kirim email pengingat H-7 dan H-1
-INV-02439,C102,Pemerintah,190830000.0,2026-01-15,0.487,Kirim email pengingat H-7 dan H-1
-INV-00310,C107,UKM,413430000.0,2026-01-15,0.487,Kirim email pengingat H-7 dan H-1
-INV-01881,C118,Pemerintah,488190000.0,2025-12-28,0.485,Kirim email pengingat H-7 dan H-1
-INV-00328,C050,Korporasi,147240000.0,2026-01-15,0.484,Kirim email pengingat H-7 dan H-1
-INV-00012,C041,UKM,127250000.0,2026-02-18,0.478,Kirim email pengingat H-7 dan H-1
-INV-01630,C142,UKM,944403199.9999982,2026-01-03,0.476,Kirim email pengingat H-7 dan H-1
-INV-01835,C033,UKM,456780000.0,2026-01-28,0.475,Kirim email pengingat H-7 dan H-1
-INV-02557,C096,UKM,165670000.0,2026-01-18,0.468,Kirim email pengingat H-7 dan H-1
-INV-02735,C097,UKM,37288000.0,2026-02-08,0.465,Kirim email pengingat H-7 dan H-1
-INV-01621,C147,UKM,74390000.0,2026-01-04,0.463,Kirim email pengingat H-7 dan H-1
-INV-01115,C040,Pemerintah,58350000.0,2026-02-27,0.462,Kirim email pengingat H-7 dan H-1
-INV-02115,C036,Korporasi,134360000.0,2026-01-04,0.455,Kirim email pengingat H-7 dan H-1
-INV-02771,C020,UKM,528630000.0,2025-12-25,0.452,Kirim email pengingat H-7 dan H-1
-INV-00701,C058,UKM,375520000.0,2025-12-24,0.449,Kirim email pengingat H-7 dan H-1
-INV-02604,C149,UKM,176060000.0,2026-01-23,0.447,Kirim email pengingat H-7 dan H-1
-INV-00550,C107,UKM,150480000.0,2025-12-29,0.434,Kirim email pengingat H-7 dan H-1
-INV-01494,C004,Pemerintah,474720000.0,2026-02-09,0.431,Kirim email pengingat H-7 dan H-1
-INV-01615,C068,UKM,453890000.0,2025-12-23,0.428,Kirim email pengingat H-7 dan H-1
-INV-02009,C046,Ritel,134200000.0,2026-01-17,0.427,Kirim email pengingat H-7 dan H-1
-INV-01193,C029,Korporasi,44600000.0,2026-01-04,0.421,Kirim email pengingat H-7 dan H-1
-INV-02220,C113,UKM,546770000.0,2025-12-28,0.417,Kirim email pengingat H-7 dan H-1
-INV-02172,C136,Korporasi,226380000.0,2026-02-23,0.415,Kirim email pengingat H-7 dan H-1
-INV-01655,C114,UKM,233610000.0,2026-02-08,0.402,Kirim email pengingat H-7 dan H-1
-INV-01393,C051,Korporasi,79540000.0,2025-12-07,0.4,Pengingat otomatis standar
-INV-00815,C033,UKM,7004000.0,2025-12-24,0.399,Pengingat otomatis standar
-INV-01272,C149,UKM,55170000.0,2026-02-25,0.397,Pengingat otomatis standar
-INV-01971,C029,Korporasi,88610000.0,2026-01-09,0.396,Pengingat otomatis standar
-INV-02421,C061,Pemerintah,28090000.0,2026-01-04,0.394,Pengingat otomatis standar
-INV-02768,C014,Ritel,284320000.0,2026-01-29,0.394,Pengingat otomatis standar
-INV-00736,C035,UKM,76610000.0,2026-01-28,0.391,Pengingat otomatis standar
-INV-00499,C006,Ritel,402140000.0,2026-02-07,0.391,Pengingat otomatis standar
-INV-02828,C038,UKM,45610000.0,2026-01-13,0.39,Pengingat otomatis standar
-INV-01373,C061,Pemerintah,45430000.0,2026-01-26,0.388,Pengingat otomatis standar
-INV-02037,C010,UKM,187550000.0,2025-12-10,0.388,Pengingat otomatis standar
-INV-01883,C050,Korporasi,30980000.0,2026-01-15,0.386,Pengingat otomatis standar
-INV-01765,C121,UKM,137740000.0,2026-01-19,0.385,Pengingat otomatis standar
-INV-01535,C022,UKM,179190000.0,2026-02-23,0.379,Pengingat otomatis standar
-INV-01734,C105,Pemerintah,129210000.0,2026-01-05,0.375,Pengingat otomatis standar
-INV-00368,C093,UKM,206840000.0,2026-01-20,0.374,Pengingat otomatis standar
-INV-00754,C130,UKM,242620000.0,2026-02-21,0.372,Pengingat otomatis standar
-INV-01669,C085,Korporasi,95140000.0,2026-01-23,0.372,Pengingat otomatis standar
-INV-01481,C027,UKM,111650000.0,2025-12-26,0.371,Pengingat otomatis standar
-INV-02606,C047,UKM,29460000.0,2025-12-16,0.368,Pengingat otomatis standar
-INV-02841,C105,Pemerintah,377250000.0,2026-01-29,0.368,Pengingat otomatis standar
-INV-01811,C068,UKM,176030000.0,2026-01-12,0.365,Pengingat otomatis standar
-INV-01821,C049,Pemerintah,22790000.0,2026-01-05,0.364,Pengingat otomatis standar
-INV-01664,C020,UKM,84140000.0,2026-01-16,0.357,Pengingat otomatis standar
-INV-02231,C053,Pemerintah,230770000.0,2026-01-29,0.351,Pengingat otomatis standar
-INV-00885,C003,Ritel,199820000.0,2026-02-03,0.346,Pengingat otomatis standar
-INV-00356,C041,UKM,34620000.0,2026-01-19,0.339,Pengingat otomatis standar
-INV-02027,C081,Pemerintah,173300000.0,2026-01-11,0.339,Pengingat otomatis standar
-INV-02581,C020,UKM,10680000.0,2026-02-02,0.336,Pengingat otomatis standar
-INV-00355,C013,UKM,30060000.0,2026-01-05,0.334,Pengingat otomatis standar
-INV-00655,C150,Korporasi,94570000.0,2026-01-29,0.33,Pengingat otomatis standar
-INV-00757,C023,Ritel,3525000.0,2026-01-20,0.328,Pengingat otomatis standar
-INV-00323,C022,UKM,141380000.0,2026-01-16,0.327,Pengingat otomatis standar
-INV-00182,C143,Ritel,124460000.0,2026-01-23,0.325,Pengingat otomatis standar
-INV-01732,C005,Korporasi,102670000.0,2026-02-21,0.321,Pengingat otomatis standar
-INV-00951,C057,UKM,94400000.0,2026-02-06,0.318,Pengingat otomatis standar
-INV-02208,C003,Ritel,157360000.0,2026-01-18,0.316,Pengingat otomatis standar
-INV-00486,C012,Ritel,301360000.0,2026-01-15,0.313,Pengingat otomatis standar
-INV-00835,C111,UKM,87370000.0,2026-01-22,0.312,Pengingat otomatis standar
-INV-02519,C071,Korporasi,147580000.0,2026-01-11,0.311,Pengingat otomatis standar
-INV-00449,C018,Korporasi,232850000.0,2026-01-24,0.305,Pengingat otomatis standar
-INV-01906,C128,Korporasi,317720000.0,2026-01-10,0.3,Pengingat otomatis standar
-INV-01773,C075,Korporasi,92940000.0,2026-01-23,0.3,Pengingat otomatis standar
+INV-00529,C078,Pemerintah,128700000.0,2026-02-24,0.728,PRIORITAS 2: telepon PIC pelanggan
+INV-02075,C106,Pemerintah,115260000.0,2026-01-13,0.706,PRIORITAS 2: telepon PIC pelanggan
+INV-02453,C065,UKM,122590000.0,2026-01-14,0.693,PRIORITAS 2: telepon PIC pelanggan
+INV-01954,C094,UKM,79290000.0,2026-01-30,0.69,PRIORITAS 2: telepon PIC pelanggan
+INV-01327,C030,Pemerintah,223860000.0,2026-01-23,0.678,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-01215,C094,UKM,161960000.0,2025-12-31,0.677,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-01884,C133,UKM,278180000.0,2026-01-08,0.664,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-02472,C133,UKM,304100000.0,2026-02-12,0.652,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-00018,C072,UKM,407210000.0,2026-02-02,0.643,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-01226,C044,UKM,406390000.0,2026-02-22,0.639,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-00370,C109,Korporasi,297310000.0,2026-01-25,0.638,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-01025,C133,UKM,215150000.0,2026-02-22,0.637,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-00177,C072,UKM,280500000.0,2026-01-22,0.634,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-00129,C092,Pemerintah,70240000.0,2026-01-08,0.634,PRIORITAS 2: telepon PIC pelanggan
+INV-01346,C138,UKM,457800000.0,2026-01-24,0.625,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-02157,C082,UKM,827220000.0,2026-02-06,0.623,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-00369,C009,Korporasi,687790000.0,2026-01-08,0.6,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-02041,C047,UKM,164690000.0,2026-02-26,0.593,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-00022,C082,UKM,591780000.0,2026-01-27,0.589,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-02652,C015,UKM,136595000.0,2026-02-15,0.583,PRIORITAS 2: telepon PIC pelanggan
+INV-01430,C044,UKM,143930000.0,2026-01-13,0.583,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-02835,C092,Pemerintah,75580000.0,2025-12-03,0.582,PRIORITAS 2: telepon PIC pelanggan
+INV-02493,C062,UKM,445680000.0,2026-01-04,0.576,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-01007,C060,Korporasi,334780000.0,2026-01-20,0.575,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-01068,C062,UKM,724300000.0,2026-02-12,0.575,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-02792,C026,Korporasi,556200000.0,2026-01-26,0.574,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-00432,C121,UKM,214390000.0,2025-12-26,0.574,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-00613,C082,UKM,148420000.0,2025-11-23,0.572,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-00347,C044,UKM,47890000.0,2026-02-12,0.57,PRIORITAS 2: telepon PIC pelanggan
+INV-02575,C046,Ritel,415430000.0,2026-02-04,0.559,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-01286,C055,Pemerintah,74680000.0,2026-01-02,0.559,PRIORITAS 2: telepon PIC pelanggan
+INV-02716,C120,UKM,493510000.0,2025-12-05,0.555,PRIORITAS 1: telepon PIC + eskalasi ke manajer piutang
+INV-02439,C102,Pemerintah,190830000.0,2026-01-15,0.544,Kirim email pengingat H-7 dan H-1
+INV-01170,C056,Pemerintah,74920000.0,2026-01-16,0.541,Kirim email pengingat H-7 dan H-1
+INV-02047,C145,UKM,266940000.0,2026-01-06,0.539,Kirim email pengingat H-7 dan H-1
+INV-00328,C050,Korporasi,147240000.0,2026-01-15,0.537,Kirim email pengingat H-7 dan H-1
+INV-02017,C126,UKM,175140000.0,2026-01-31,0.535,Kirim email pengingat H-7 dan H-1
+INV-00141,C026,Korporasi,151160000.0,2026-01-08,0.535,Kirim email pengingat H-7 dan H-1
+INV-01835,C033,UKM,456780000.0,2026-01-28,0.533,Kirim email pengingat H-7 dan H-1
+INV-00310,C107,UKM,413430000.0,2026-01-15,0.532,Kirim email pengingat H-7 dan H-1
+INV-02735,C097,UKM,37288000.0,2026-02-08,0.532,Kirim email pengingat H-7 dan H-1
+INV-01115,C040,Pemerintah,58350000.0,2026-02-27,0.532,Kirim email pengingat H-7 dan H-1
+INV-02115,C036,Korporasi,134360000.0,2026-01-04,0.525,Kirim email pengingat H-7 dan H-1
+INV-01630,C142,UKM,944403199.9999982,2026-01-03,0.524,Kirim email pengingat H-7 dan H-1
+INV-01881,C118,Pemerintah,488190000.0,2025-12-28,0.524,Kirim email pengingat H-7 dan H-1
+INV-02023,C126,UKM,101150000.0,2026-01-20,0.523,Kirim email pengingat H-7 dan H-1
+INV-00012,C041,UKM,127250000.0,2026-02-18,0.521,Kirim email pengingat H-7 dan H-1
+INV-02557,C096,UKM,165670000.0,2026-01-18,0.512,Kirim email pengingat H-7 dan H-1
+INV-01193,C029,Korporasi,44600000.0,2026-01-04,0.507,Kirim email pengingat H-7 dan H-1
+INV-02771,C020,UKM,528630000.0,2025-12-25,0.505,Kirim email pengingat H-7 dan H-1
+INV-02303,C011,UKM,109430000.0,2026-01-03,0.499,Kirim email pengingat H-7 dan H-1
+INV-02220,C113,UKM,546770000.0,2025-12-28,0.498,Kirim email pengingat H-7 dan H-1
+INV-00701,C058,UKM,375520000.0,2025-12-24,0.496,Kirim email pengingat H-7 dan H-1
+INV-01621,C147,UKM,74390000.0,2026-01-04,0.493,Kirim email pengingat H-7 dan H-1
+INV-00550,C107,UKM,150480000.0,2025-12-29,0.49,Kirim email pengingat H-7 dan H-1
+INV-01971,C029,Korporasi,88610000.0,2026-01-09,0.485,Kirim email pengingat H-7 dan H-1
+INV-02604,C149,UKM,176060000.0,2026-01-23,0.482,Kirim email pengingat H-7 dan H-1
+INV-02421,C061,Pemerintah,28090000.0,2026-01-04,0.481,Kirim email pengingat H-7 dan H-1
+INV-01615,C068,UKM,453890000.0,2025-12-23,0.476,Kirim email pengingat H-7 dan H-1
+INV-02009,C046,Ritel,134200000.0,2026-01-17,0.469,Kirim email pengingat H-7 dan H-1
+INV-01272,C149,UKM,55170000.0,2026-02-25,0.466,Kirim email pengingat H-7 dan H-1
+INV-01393,C051,Korporasi,79540000.0,2025-12-07,0.464,Kirim email pengingat H-7 dan H-1
+INV-01494,C004,Pemerintah,474720000.0,2026-02-09,0.461,Kirim email pengingat H-7 dan H-1
+INV-01373,C061,Pemerintah,45430000.0,2026-01-26,0.461,Kirim email pengingat H-7 dan H-1
+INV-02172,C136,Korporasi,226380000.0,2026-02-23,0.456,Kirim email pengingat H-7 dan H-1
+INV-01765,C121,UKM,137740000.0,2026-01-19,0.444,Kirim email pengingat H-7 dan H-1
+INV-01664,C020,UKM,84140000.0,2026-01-16,0.437,Kirim email pengingat H-7 dan H-1
+INV-01821,C049,Pemerintah,22790000.0,2026-01-05,0.435,Kirim email pengingat H-7 dan H-1
+INV-00815,C033,UKM,7004000.0,2025-12-24,0.428,Kirim email pengingat H-7 dan H-1
+INV-00368,C093,UKM,206840000.0,2026-01-20,0.427,Kirim email pengingat H-7 dan H-1
+INV-01811,C068,UKM,176030000.0,2026-01-12,0.422,Kirim email pengingat H-7 dan H-1
+INV-02606,C047,UKM,29460000.0,2025-12-16,0.422,Kirim email pengingat H-7 dan H-1
+INV-02841,C105,Pemerintah,377250000.0,2026-01-29,0.421,Kirim email pengingat H-7 dan H-1
+INV-00499,C006,Ritel,402140000.0,2026-02-07,0.415,Kirim email pengingat H-7 dan H-1
+INV-00754,C130,UKM,242620000.0,2026-02-21,0.415,Kirim email pengingat H-7 dan H-1
+INV-01535,C022,UKM,179190000.0,2026-02-23,0.414,Kirim email pengingat H-7 dan H-1
+INV-01883,C050,Korporasi,30980000.0,2026-01-15,0.413,Kirim email pengingat H-7 dan H-1
+INV-02828,C038,UKM,45610000.0,2026-01-13,0.412,Kirim email pengingat H-7 dan H-1
+INV-02037,C010,UKM,187550000.0,2025-12-10,0.409,Kirim email pengingat H-7 dan H-1
+INV-02768,C014,Ritel,284320000.0,2026-01-29,0.408,Kirim email pengingat H-7 dan H-1
+INV-02581,C020,UKM,10680000.0,2026-02-02,0.404,Kirim email pengingat H-7 dan H-1
+INV-01655,C114,UKM,233610000.0,2026-02-08,0.401,Kirim email pengingat H-7 dan H-1
+INV-01734,C105,Pemerintah,129210000.0,2026-01-05,0.4,Pengingat otomatis standar
+INV-00736,C035,UKM,76610000.0,2026-01-28,0.395,Pengingat otomatis standar
+INV-00486,C012,Ritel,301360000.0,2026-01-15,0.394,Pengingat otomatis standar
+INV-00885,C003,Ritel,199820000.0,2026-02-03,0.393,Pengingat otomatis standar
+INV-02027,C081,Pemerintah,173300000.0,2026-01-11,0.392,Pengingat otomatis standar
+INV-01481,C027,UKM,111650000.0,2025-12-26,0.384,Pengingat otomatis standar
+INV-01773,C075,Korporasi,92940000.0,2026-01-23,0.384,Pengingat otomatis standar
+INV-00655,C150,Korporasi,94570000.0,2026-01-29,0.381,Pengingat otomatis standar
+INV-01669,C085,Korporasi,95140000.0,2026-01-23,0.377,Pengingat otomatis standar
+INV-00835,C111,UKM,87370000.0,2026-01-22,0.374,Pengingat otomatis standar
+INV-00356,C041,UKM,34620000.0,2026-01-19,0.373,Pengingat otomatis standar
+INV-02208,C003,Ritel,157360000.0,2026-01-18,0.365,Pengingat otomatis standar
+INV-00072,C003,Ritel,52270000.0,2026-01-15,0.362,Pengingat otomatis standar
+INV-00182,C143,Ritel,124460000.0,2026-01-23,0.36,Pengingat otomatis standar
+INV-00757,C023,Ritel,3525000.0,2026-01-20,0.355,Pengingat otomatis standar
+INV-00355,C013,UKM,30060000.0,2026-01-05,0.348,Pengingat otomatis standar
+INV-00926,C099,Korporasi,351700000.0,2026-02-07,0.347,Pengingat otomatis standar
+INV-01906,C128,Korporasi,317720000.0,2026-01-10,0.342,Pengingat otomatis standar
+INV-02231,C053,Pemerintah,230770000.0,2026-01-29,0.341,Pengingat otomatis standar
+INV-00449,C018,Korporasi,232850000.0,2026-01-24,0.341,Pengingat otomatis standar
+INV-02948,C109,Korporasi,56530000.0,2026-01-12,0.34,Pengingat otomatis standar
+INV-02267,C017,UKM,28550000.0,2026-01-22,0.337,Pengingat otomatis standar
+INV-00323,C022,UKM,141380000.0,2026-01-16,0.332,Pengingat otomatis standar
+INV-01732,C005,Korporasi,102670000.0,2026-02-21,0.331,Pengingat otomatis standar
+INV-00951,C057,UKM,94400000.0,2026-02-06,0.326,Pengingat otomatis standar
+INV-00145,C028,Korporasi,5934000.0,2026-01-23,0.326,Pengingat otomatis standar
+INV-02519,C071,Korporasi,147580000.0,2026-01-11,0.323,Pengingat otomatis standar
+INV-02102,C130,UKM,88090000.0,2026-01-05,0.322,Pengingat otomatis standar
+INV-02876,C140,Korporasi,97990000.0,2026-01-09,0.313,Pengingat otomatis standar
+INV-01144,C012,Ritel,98540000.0,2026-01-06,0.311,Pengingat otomatis standar
+INV-02435,C137,Ritel,35910000.0,2025-12-26,0.311,Pengingat otomatis standar
+INV-00387,C137,Ritel,83220000.0,2026-02-11,0.31,Pengingat otomatis standar
 INV-01714,C098,Korporasi,90040000.0,2026-02-06,0.296,Pengingat otomatis standar
-INV-02876,C140,Korporasi,97990000.0,2026-01-09,0.284,Pengingat otomatis standar
-INV-02102,C130,UKM,88090000.0,2026-01-05,0.278,Pengingat otomatis standar
-INV-00072,C003,Ritel,52270000.0,2026-01-15,0.275,Pengingat otomatis standar
-INV-00926,C099,Korporasi,351700000.0,2026-02-07,0.274,Pengingat otomatis standar
-INV-02120,C140,Korporasi,48640000.0,2026-02-06,0.274,Pengingat otomatis standar
-INV-00956,C098,Korporasi,255770000.0,2026-01-04,0.273,Pengingat otomatis standar
-INV-01144,C012,Ritel,98540000.0,2026-01-06,0.272,Pengingat otomatis standar
-INV-02948,C109,Korporasi,56530000.0,2026-01-12,0.266,Pengingat otomatis standar
-INV-02555,C025,Pemerintah,51970000.0,2026-02-01,0.265,Pengingat otomatis standar
-INV-02267,C017,UKM,28550000.0,2026-01-22,0.263,Pengingat otomatis standar
-INV-00743,C103,Korporasi,191970000.0,2026-01-05,0.258,Pengingat otomatis standar
-INV-01220,C125,Korporasi,234970000.0,2026-01-20,0.254,Pengingat otomatis standar
-INV-01518,C103,Korporasi,85490000.0,2026-01-24,0.249,Pengingat otomatis standar
-INV-00855,C001,Pemerintah,108480000.0,2026-01-26,0.247,Pengingat otomatis standar
-INV-01948,C076,Korporasi,78950000.0,2026-01-13,0.246,Pengingat otomatis standar
-INV-00387,C137,Ritel,83220000.0,2026-02-11,0.245,Pengingat otomatis standar
-INV-02895,C071,Korporasi,8260000.0,2026-01-04,0.244,Pengingat otomatis standar
-INV-00145,C028,Korporasi,5934000.0,2026-01-23,0.244,Pengingat otomatis standar
-INV-02435,C137,Ritel,35910000.0,2025-12-26,0.243,Pengingat otomatis standar
-INV-02181,C075,Korporasi,258730000.0,2026-01-09,0.219,Pengingat otomatis standar
-INV-01154,C059,Korporasi,56200000.0,2026-02-11,0.206,Pengingat otomatis standar
-INV-02660,C073,Ritel,58740000.0,2026-02-10,0.198,Pengingat otomatis standar
-INV-00073,C137,Ritel,27180000.0,2026-01-25,0.183,Pengingat otomatis standar
-INV-00335,C071,Korporasi,118440000.0,2026-02-19,0.179,Pengingat otomatis standar
+INV-02555,C025,Pemerintah,51970000.0,2026-02-01,0.291,Pengingat otomatis standar
+INV-01220,C125,Korporasi,234970000.0,2026-01-20,0.29,Pengingat otomatis standar
+INV-00855,C001,Pemerintah,108480000.0,2026-01-26,0.283,Pengingat otomatis standar
+INV-02895,C071,Korporasi,8260000.0,2026-01-04,0.281,Pengingat otomatis standar
+INV-01518,C103,Korporasi,85490000.0,2026-01-24,0.279,Pengingat otomatis standar
+INV-02181,C075,Korporasi,258730000.0,2026-01-09,0.27,Pengingat otomatis standar
+INV-02120,C140,Korporasi,48640000.0,2026-02-06,0.27,Pengingat otomatis standar
+INV-00743,C103,Korporasi,191970000.0,2026-01-05,0.269,Pengingat otomatis standar
+INV-01948,C076,Korporasi,78950000.0,2026-01-13,0.268,Pengingat otomatis standar
+INV-02660,C073,Ritel,58740000.0,2026-02-10,0.265,Pengingat otomatis standar
+INV-00956,C098,Korporasi,255770000.0,2026-01-04,0.257,Pengingat otomatis standar
+INV-00073,C137,Ritel,27180000.0,2026-01-25,0.243,Pengingat otomatis standar
+INV-01154,C059,Korporasi,56200000.0,2026-02-11,0.241,Pengingat otomatis standar
+INV-00335,C071,Korporasi,118440000.0,2026-02-19,0.225,Pengingat otomatis standar
